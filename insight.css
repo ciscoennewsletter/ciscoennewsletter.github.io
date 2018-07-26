@@ -1,0 +1,70 @@
+div.header {
+    padding:10px;
+    background-color: rgb(3, 72, 118);
+}
+h1.liz {
+    text-align: center;
+    color: rgb(55, 166, 240);
+    font-family:  arial;
+    padding: 0px;
+}
+div.all {
+    padding: 40px;
+    font-family: arial;
+}
+p.topper {
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+p.warn {
+    color: red;
+    text-align: center;
+    padding-top: 0px;
+    font-size: small;
+}
+table, th, td {
+    border: 1px solid black;
+    padding: 2px;
+}
+div.anow {
+    background-color: green;
+}
+div.inprog {
+    background-color: yellow;
+}
+div.csoon {
+    background-color: red;
+}
+h4.ISHOW {
+    text-align: center;
+}
+h2.beg {
+    color: rgb(55, 166, 240);
+    font-weight: bold;
+}
+div.dotgreen {
+    border-style: dotted;
+    border-color: lightgreen;
+    border-width: 8px;
+}
+img.undergreen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    padding-top: 20px;
+}
+img.aws {
+    width: 20%;
+}
+div.aws {
+    border-style: solid;
+    border-color: lightblue;
+    border-width: 5px;
+    display: block;
+}
+img.check {
+    float: left;
+    width:3%;
+}
